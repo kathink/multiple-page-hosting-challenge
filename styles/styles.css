@@ -1,3 +1,10 @@
+:root {
+  --primary-color: #f8e8a6;
+  --secondary-color: green;
+}
+body {
+  background-color: var(--primary-color);
+}
 h1 {
   text-align: center;
 }
